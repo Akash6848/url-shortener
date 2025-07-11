@@ -23,8 +23,8 @@ A simple and efficient URL shortener API built with Node.js, Express.js, and Mon
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mini-url-shortener.git
-cd mini-url-shortener
+git clone [https://github.com/yourusername/mini-url-shortener.git](https://github.com/Akash6848/url-shortener.git)
+cd url-shortener
 ```
 
 2. Install dependencies:
@@ -189,6 +189,6 @@ BASE_URL=http://localhost:3000
 Import the included Postman collection to test all endpoints:
 
 1. Open Postman
-2. Import `postman_collection.json`
+2. Import `poatman/url-shortener.postman_collection.json`
 3. Set environment variables if needed
 4. Run the collection
